@@ -8,6 +8,16 @@ Also known as:
 
 Dean is the Knight of the COTD. He is arguably the most powerful human aside from Lisa, as he was the first human guinea-pig used by [Bath](../McLane%20Family/Bath.md) to develop boons. He is the leader of Jerboaland, and was the head of the first vanguard that scouted out the neighboring fringeworlds.
 
+## Family
+
+Father Robbie
+
+Mother Hope
+
+Sister Gina
+
+Parents getting a divorce
+
 ## Friends and Companions
 
 * [Virigard](../../Quasi-Sapients/Virigard.md)

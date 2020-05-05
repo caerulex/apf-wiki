@@ -1,5 +1,17 @@
 # Planets
 
+## Basic Outline
+
+The Center Core – Ildr
+
+The Core Worlds – Ildrip
+
+The Outer Core
+
+The Intermediary Strand
+
+The Fringe
+
 ## Fringeworlds near Earth
 
 * [Earth 39123](Earth%20(39123)/City%20Index.md)
@@ -10,6 +22,7 @@
   * City-seeds:
     * Snakeseed
 * Gray Land 39910
+  * > "Lava World of Death" would've been a better name for the place.
 * Illudis 39843
   * Purple ground, covered in reedy,tall, violet grass
   * City-seeds:
